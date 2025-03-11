@@ -1,3 +1,5 @@
+
+git clone https://gitlab.developers.cam.ac.uk/ch/thom/part2programming.git
 import matplotlib.pyplot as plt
 import numpy as np
 import glob
